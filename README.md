@@ -8,3 +8,7 @@ Machine Spec :
 
 
 SML : 1min 22s consuming 25% of Ram
+
+
+Python interpreter crashed at 26186 stating Segmentation fault core 
+dumped
