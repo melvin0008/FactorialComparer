@@ -1,3 +1,4 @@
+
 fun fact n =
         let 
         fun fac acc 0 = acc : IntInf.int
@@ -6,3 +7,7 @@ fun fact n =
           fac 1 n
         end
  
+val f = fact 50000;
+
+
+
