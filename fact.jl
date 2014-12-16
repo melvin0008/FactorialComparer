@@ -6,4 +6,4 @@ function fact(acc::BigInt,n)
     end                                                                                                                                               
 end                                                                                                                                                   
 
-println(fact(BigInt(1),50000)) 
+println(fact(BigInt(1),60000)) 
