@@ -7,7 +7,7 @@ fun fact n =
           fac 1 n
         end
  
-val f = fact 50000;
+val f = fact 75000;
 
 
 
