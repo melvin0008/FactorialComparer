@@ -7,8 +7,8 @@ Machine Spec :
 2.1GHz
 
 
-SML : 1min 22s consuming 25% of Ram for 50000    
-      3min 45s consuming 25% of Ram for 75000   
+SML : 1min 22s consuming 25% of Ram for fact 50000    
+      3min 45s consuming 25% of Ram for fact 75000   
 Sml tail recursion optimization
  
 
@@ -23,10 +23,13 @@ Julia 3.8s for fact 50000!!!!! Wow
 
 
 Haskell    
+
 Factorial By recursion   
-2,00,000 => 33.389s   
-1,00,000=> 7.78s   
-50,000=>1.559s
+
+fact 2,00,000 => 33.389s   
+fact 1,00,000=> 7.78s   
+fact 50,000=>1.559s
+
 
 Factorial using in-built product 
 fact 2,00,000=>30.49s
