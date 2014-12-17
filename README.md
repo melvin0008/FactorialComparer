@@ -23,7 +23,13 @@ Julia 3.8s for fact 50000!!!!! Wow
 
 
 Haskell    
+Factorial By recursion   
 2,00,000 => 33.389s   
 1,00,000=> 7.78s   
 50,000=>1.559s
+
+Factorial using in-built product 
+fact 2,00,000=>30.49s
+
+
 
